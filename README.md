@@ -6,8 +6,9 @@
    </h1>
 </div>
 
+<!--
 ## :woman_technologist: About Me
-I'm a full stack developer...
+I'm a full stack developer...-->
 
 
 ## 🛠 Skills
@@ -24,7 +25,8 @@ I'm a full stack developer...
 </div>
 
 ## :fire: My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCCM&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCCM&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCCM&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCCM)
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianaccm/)
