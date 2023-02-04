@@ -21,8 +21,10 @@ I'm a full stack developer...
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="50" height="50"/>&nbsp;
-  
 </div>
+
+## :fire: My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCCM&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCCM&theme=dark)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianaccm/)
