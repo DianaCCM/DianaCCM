@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="/code.gif" width="150"/> 
+   <img src="https://raw.githubusercontent.com/DianaCCM/DianaCCM/master/code.gif" width="150"/> 
    <h1> 
       Hi, I'm Diana! 👋 
    </h1>
