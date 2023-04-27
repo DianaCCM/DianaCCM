@@ -9,8 +9,7 @@
 
 ### 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
