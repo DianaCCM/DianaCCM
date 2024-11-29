@@ -1,26 +1,32 @@
 <div align="center">
-   <img src="https://raw.githubusercontent.com/DianaCCM/DianaCCM/master/code.gif" width="150" alt="animated rabbit coding"/> 
+   <img src="https://raw.githubusercontent.com/DianaCCM/DianaCCM/master/assets/code.gif" width="150" alt="animated rabbit coding"/> 
    <h1> 
-      Hi, I'm Diana! 👋 
+      Hi! I'm Diana! 👋 
    </h1>
-   <h3> Just a web developer </h3>
+   <h3> Software Engineer </h3>
 </div>
 
-
-### 🛠 Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+---
 
 
-### :fire: My Stats
+##### Currently working with:
+![My Skills](https://skillicons.dev/icons?i=js,vue,py,git,postgresql,bootstrap,sass)
+
+
+##### Learning:
+![Learning](https://skillicons.dev/icons?i=flask,django,aws,ts)
+
+##### Previously worked with:
+![Learning](https://skillicons.dev/icons?i=mysql,vuetify,tailwind)
+<img src="https://raw.githubusercontent.com/DianaCCM/DianaCCM/master/assets/plsql.svg" width="50" alt="plsql oracle svg"/> 
+
+---
+
+### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCCM&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCCM)
 
+---
 
-### 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianaccm/)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/NanaCCM)
+💼 Find more about me on my [LinkedIn profile](https://www.linkedin.com/in/dianaccm/).  
+<!-- - 💻 Check out my [portfolio](https://dianaccm.github.io/). -->
+
